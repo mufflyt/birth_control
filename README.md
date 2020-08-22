@@ -71,3 +71,15 @@ Prior to 2019, each NEISS record allowed a maximum of one diagnosis and body par
 
 User Selected On: Select Up to 5 Years: 2019; Diagnosis Selection: Ingested Object (41), Aspirated Object (42);
 ```
+
+
+```r
+National Estimate of Injuries Treated in Emergency Departments
+Treatment Dates: 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019
+
+National Estimate
+973,878
+Suggested Citation: Consumer Product Safety Commission. National Electronic Injury Surveillance System 2000-2019 on NEISS Online Database, released April, 2020. Generated at https://www.cpsc.gov/cgibin/NEISSQuery/home.aspx. on: May 4, 2020 at 14:30:57
+
+User Selected On: Most Recent 10 Years (2010 - 2019); Diagnosis Selection: Ingested Object (41), Aspirated Object (42);
+```
