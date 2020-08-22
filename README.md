@@ -58,16 +58,16 @@ User Selected On: Most Recent 10 Years (2010 - 2019); Gender: Female (2);
 ```
 
 
-## All ingested tablets in females
+## All ingested tablets because both boys and firls accidentally take birth control, 2019 only
 ```r
 National Estimate of Injuries Treated in Emergency Departments
-Treatment Dates: 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019
+Treatment Dates: 2019
 
 National Estimate
-1,172,203
-Suggested Citation: Consumer Product Safety Commission. National Electronic Injury Surveillance System 2000-2019 on NEISS Online Database, released April, 2020. Generated at https://www.cpsc.gov/cgibin/NEISSQuery/home.aspx. on: August 21, 2020 at 17:31:32
+98,886
+Suggested Citation: Consumer Product Safety Commission. National Electronic Injury Surveillance System 2000-2019 on NEISS Online Database, released April, 2020. Generated at https://www.cpsc.gov/cgibin/NEISSQuery/home.aspx. on: June 8, 2020 at 10:01:06
  
 Prior to 2019, each NEISS record allowed a maximum of one diagnosis and body part. In 2019 the NEISS began collecting up to two diagnoses and body parts per record. As a result, a NEISS record may be counted multiple times in producing national injury estimates and calculating variability of those estimates. A single record may be counted in up to two different diagnosis/body part combinations.
 
-User Selected On: Most Recent 10 Years (2010 - 2019); Gender: Female (2); Diagnosis Selection: Ingested Object (41), Aspirated Object (42), Poisoning (68);
+User Selected On: Select Up to 5 Years: 2019; Diagnosis Selection: Ingested Object (41), Aspirated Object (42);
 ```
