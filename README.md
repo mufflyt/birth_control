@@ -1,4 +1,5 @@
 # birth_control
+# Accidental Ingestion of Birth Control by Children: A National Population-Based Analysis
 Masten, Muffly
 
 Our objective was to analyze trends in birth control tablet ingestion by non-users epidemiology, demographics, and mechanisms of injury.
