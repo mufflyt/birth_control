@@ -6,6 +6,11 @@ Our objective was to analyze trends in birth control tablet ingestion by non-use
 
 * NEISS, https://www.cpsc.gov/cgibin/NEISSQuery/UserCriteria.aspx?UserAff=CvbkBwSYvXoJ%2blc0Tfzwdg%3d%3d&UserAffOther=9OYR9kUytIsLilKZieD5xg%3d%3d
 * Sample paper, https://www.dropbox.com/s/6b8wz2isgwwpgk8/soccer_injury.pdf?dl=0
+* https://www.cpsc.gov/Research--Statistics/NEISS-Injury-Data
+* https://www.cpsc.gov/cgibin/NEISSQuery/WebEstimates.html
+* https://www.cpsc.gov/cgibin/NEISSQuery/home.aspx
+* https://lenagroeger.s3.amazonaws.com/talks/orlando/exercises/ExcelMath/math.html
+* https://www.dropbox.com/s/nfo87g26mz93d0r/svider_article.pdf?dl=0
 
 # Abstract to model on
 Purpose: Soccer participation continues to increase among all ages in the US. Our objective was to analyze trends in soccer-related facial injury epidemiology, demographics, and mechanisms of injury.
