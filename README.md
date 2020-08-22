@@ -4,6 +4,7 @@ Masten, Muffly
 
 Our objective was to analyze trends in birth control tablet ingestion by non-users epidemiology, demographics, and mechanisms of injury.
 
+* NEISS coding manual, https://www.cpsc.gov/s3fs-public/2018-NEISS-CPSC-only-CodingManual.pdf?FY0UWXTUPXns1FCZe6d3.1x.d1RHLeP_
 * NEISS, https://www.cpsc.gov/cgibin/NEISSQuery/UserCriteria.aspx?UserAff=CvbkBwSYvXoJ%2blc0Tfzwdg%3d%3d&UserAffOther=9OYR9kUytIsLilKZieD5xg%3d%3d
 * Sample paper, https://www.dropbox.com/s/6b8wz2isgwwpgk8/soccer_injury.pdf?dl=0
 * https://www.cpsc.gov/Research--Statistics/NEISS-Injury-Data
@@ -35,7 +36,10 @@ Ethical Considerations
 Because this study is comprised solely of publicly searchable data freely available through online databases, it qualifies as nonhuman subject research and thus was exempted from requiring institutional review board approval.
 
 # Results
+During the 10-year period studied, we reviewed ?? NEISS recorded ED poisenings by birth control tables, which was extrapolated to a national incidence of ??? birth control-related poisonings per year. The number of US ED visits for birth control-related poisonings remained stable from 2010 to 2019 (Figure 1). The majority of patients during this 10-year period were male (74.4%), with the remaining 25.6% female.
 
+Age-related trends
+Patients aged 18 and under accounted for 66.9% of injures, while 33.1% were adults over 18 years of age. The mean and median ages of those injured were 18.4 (±.21) and 16 years (interquartile range, 13-22), respectively. Of the pediatric population, 53.3% of injuries were involving children under 15 years of age while 46.7% were involving high school–aged athletes, from 15 to 18 years of age. Adults over 18 years of age had a higher risk of lacerations (52.7% vs 40.0%, P < .0001) and fractures (27.2% vs 17.2%, P < .0001), while patients 18 years of age and under had a significantly higher risk of contusions (31.8% vs 15.9% P < .0001) (Table 1). Similarly, males were significantly more likely to suffer from lacerations (49.2% vs 29.8%, P < .0001), and females were more likely to sustain a contusion (39.1% vs 22.2%, P < .0001) (Table 2).
 
 
 
@@ -43,7 +47,7 @@ Because this study is comprised solely of publicly searchable data freely availa
 
 
 ## Downloads from NEISS
-We downloaded all the data for females with no restrictions.  Then we pulled out the data based on filtering specific words.  
+We downloaded all the NEISS data for females with no restrictions.  Then we pulled out the data based on filtering specific words.  
 ```r
 NEISS Query Results
 
@@ -72,7 +76,8 @@ Prior to 2019, each NEISS record allowed a maximum of one diagnosis and body par
 User Selected On: Select Up to 5 Years: 2019; Diagnosis Selection: Ingested Object (41), Aspirated Object (42);
 ```
 
-
+## All ten years of accidentally ingested tablets that are then filtered to birth control
+Files:  NEISS_56011
 ```r
 National Estimate of Injuries Treated in Emergency Departments
 Treatment Dates: 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019
@@ -83,3 +88,16 @@ Suggested Citation: Consumer Product Safety Commission. National Electronic Inju
 
 User Selected On: Most Recent 10 Years (2010 - 2019); Diagnosis Selection: Ingested Object (41), Aspirated Object (42);
 ```
+
+## All ten years of all injuries for boys and girls, no filter
+NEISS_50815.zip
+```r
+National Estimate of Injuries Treated in Emergency Departments
+Treatment Dates: 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019
+
+National Estimate
+141,969,223
+Suggested Citation: Consumer Product Safety Commission. National Electronic Injury Surveillance System 2000-2019 on NEISS Online Database, released April, 2020. Generated at https://www.cpsc.gov/cgibin/NEISSQuery/home.aspx. on: May 14, 2020 at 16:15:26
+
+User Selected On: Most Recent 10 Years (2010 - 2019);
+``
