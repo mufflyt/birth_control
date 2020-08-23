@@ -27,7 +27,7 @@ Keywords: NEISS; National Electronic Injury Surveillance System; facial trauma; 
 # Materials and Methods
 The National Electronic Injury Surveillance System (NEISS), a nationwide resource offered by the Consumer Product Safety Commission, was evaluated for emergency department (ED) visits related to accidental ingestion of birth control tablets. The NEISS collects data from a representative sample of EDs and weighs results based on ED setting, providing weighted national incidence. This database has been of great importance in numerous prior analyses.(citation needed)
 
-In August 2020, the most recent 10-year period of data was searched using the product code “tablets” (NEISS code 1931) with focus on accidental ingestion "poisoning" (NEISS code 68) of birth control. Data were recorded and evaluated for patient age, sex, injury type, and a brief narrative description of the incident. Injuries unrelated to ingestion of birth control were excluded from the study (eg, patient on birth control and developed a pulmonary embolism). 
+In August 2020, the most recent 10-year period of data was searched using the product of interest “tablets” (NEISS code 1931) with focus on accidental ingestion "poisoning" (NEISS code 68) of birth control. Data were recorded and evaluated for patient age, sex, injury type, and a brief narrative description of the incident. Injuries unrelated to ingestion of birth control were excluded from the study (eg, patient on birth control and developed a pulmonary embolism). This database provided annual sample sizes as well as derived national estimates for poisoning due to tablet medications. The annual sample size of poisonings by tablet organized was multiplied by the annual percentage of birth-control related poisonings, and this proportion was multiplied by the nationwide estimate to come up with specific values for injury incidence. For example, the NEISS reported 9 birth control-related ED visits for poisoning in 2019 with 882 poisonings via tablet medications in 2019 within the NEISS hospitals.  Therefore (9/882) one percent of poisonings with tablets were from birth control.  In 2019, the poisoning with tablets had a derived estimate of 25,508 nationwide ED visits. Because one percent of these 882 visits (1%) were related to birth control, we multiplied 25,508 by one percent to come up with an estimate of 255 birth control related poisoning injuries for 2019. In addition to annual estimates, we also analyzed data by patient demographics (including age and gender), injury diagnosis, and patient disposition. We examined data from the most recent available 10-year block (2010–2019). Data collection was completed in August 2020.
 
 Statistical Analysis
 Fisher’s exact test and 2-tailed Student’s t test were used for comparison of categorical and continuous variables, as appropriate, with significance set at P < .05. Weighted national incidence estimates are provided by the NEISS from each query conducted. Exploratory.io version 6.1.1.4 was used for statistical calculations.
@@ -36,34 +36,14 @@ Ethical Considerations
 Because this study is comprised solely of publicly searchable data freely available through online databases, it qualifies as nonhuman subject research and thus was exempted from requiring institutional review board approval.
 
 # Results
-During the 10-year period studied, we reviewed ?? NEISS recorded ED poisenings by birth control tables, which was extrapolated to a national incidence of ??? birth control-related poisonings per year. The number of US ED visits for birth control-related poisonings remained stable from 2010 to 2019 (Figure 1). The majority of patients during this 10-year period were male (74.4%), with the remaining 25.6% female.
+During the 10-year period studied, we reviewed 74 NEISS recorded ED poisenings by birth control tables, which was extrapolated to a national incidence of 255 birth control-related poisonings per year. The number of US ED visits for birth control-related poisonings remained stable from 2010 to 2019 (Figure 1). The majority of patients poisoned by birth control were children with a majority being male (74.4%).
 
-Age-related trends
+Age-related trends (need values)
 Patients aged 18 and under accounted for 66.9% of injures, while 33.1% were adults over 18 years of age. The mean and median ages of those injured were 18.4 (±.21) and 16 years (interquartile range, 13-22), respectively. Of the pediatric population, 53.3% of injuries were involving children under 15 years of age while 46.7% were involving high school–aged athletes, from 15 to 18 years of age. Adults over 18 years of age had a higher risk of lacerations (52.7% vs 40.0%, P < .0001) and fractures (27.2% vs 17.2%, P < .0001), while patients 18 years of age and under had a significantly higher risk of contusions (31.8% vs 15.9% P < .0001) (Table 1). Similarly, males were significantly more likely to suffer from lacerations (49.2% vs 29.8%, P < .0001), and females were more likely to sustain a contusion (39.1% vs 22.2%, P < .0001) (Table 2).
 
 
-
-## Methods from Svider battery study
-We searched this database for BRI and evaluated results
-specifically relating to the head and neck. We were able to
-search for injuries with the anatomic designations including
-“head,” “neck,” “ear,” “face,” and “mouth. ” We excluded ophthalmologic injuries in this analysis. Furthermore, all of the patient
-narratives for “face” injuries were examined to further filter out
-nasal injuries. This database provided annual sample sizes as
-well as derived national estimates for battery injuries throughout the body. The annual sample size of injuries organized by
-anatomic site was divided by the annual sample size of BRI for
-all sites, and this proportion was multiplied by the nationwide
-estimate to come up with specific values for injury incidence
-organized by anatomic site. For example, the NEISS reported
-74 birth control-related ED visits for ingestion 2019—and provided a derived estimate of 15,058 nationwide
-ED visits from this number. Because 29 of these 470 visits
-(6.2%) were related to injuries of the face, we multiplied 15,058
-by 6.2% to come up with a figure of 929 battery-instigated facial
-injuries for 2012. In addition to annual estimates, we also analyzed data by patient demographics (including age and gender),
-injury diagnosis, and patient disposition. We examined data
-from the most recent available 10-year block (2003–2012). Data
-collection was completed in December 2013.
-
+* Plots
+* Create line graph of National estimate of birth control poisoning on y and years on x.  Similar to figure 2 of the battery paper.  Need ot build the table in Excel to input the national estimates for each year of tablet poisonings from NEISS.  
 
 ## Downloads from NEISS
 We downloaded all the NEISS data for females with no restrictions.  Then we pulled out the data based on filtering specific words.  
@@ -97,7 +77,19 @@ Prior to 2019, each NEISS record allowed a maximum of one diagnosis, one body pa
 
 User Selected On: Date Range from 01/01/2019 to 12/31/2019; Product Selection: Tablet Or Capsule Drugs (1931); Diagnosis Selection: Poisoning (68);
 ```
+# Poisoning from 2017
+```r
+National Estimate of Injuries Treated in Emergency Departments
+Treatment Dates: 01/01/2017 - 12/31/2017
 
+National Estimate
+31,007
+Suggested Citation: Consumer Product Safety Commission. National Electronic Injury Surveillance System 2000-2019 on NEISS Online Database, released April, 2020. Generated at https://www.cpsc.gov/cgibin/NEISSQuery/home.aspx. on: August 22, 2020 at 20:18:57
+ 
+Prior to 2019, each NEISS record allowed a maximum of one diagnosis, one body part, and two product codes. In 2019 the NEISS began collecting up to two diagnoses and body parts, and three product codes per record. As a result, a NEISS record may be counted multiple times in producing national injury estimates and calculating variability of those estimates. A single record may be counted in up to three product groups, product sub-groups, or individual product codes. Likewise, an individual NEISS record may be counted in up to two different diagnosis/body part combinations.
+
+User Selected On: Date Range from 01/01/2017 to 12/31/2017; Product Selection: Tablet Or Capsule Drugs (1931); Diagnosis Selection: Poisoning (68);
+```
 
 ## All ingested tablets because both boys and firls accidentally take birth control, 2019 only
 ```r
