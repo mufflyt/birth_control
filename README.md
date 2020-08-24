@@ -2,6 +2,8 @@
 # Accidental Ingestion of Birth Control by Children: A National Population-Based Analysis
 Masten, Muffly
 
+* Video about how I analyzed the data: https://youtu.be/lLAF9xJQYbM
+
 Our objective was to analyze trends in birth control tablet ingestion by non-users epidemiology, demographics, and mechanisms of injury.
 
 * NEISS coding manual, https://www.cpsc.gov/s3fs-public/2018-NEISS-CPSC-only-CodingManual.pdf?FY0UWXTUPXns1FCZe6d3.1x.d1RHLeP_
