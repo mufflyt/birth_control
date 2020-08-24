@@ -43,13 +43,18 @@ During the 10-year period studied, we reviewed 74 NEISS recorded ED poisonings b
 Age-related trends (need values)
 Patients aged 18 and under accounted for 66.9% of injures, while 33.1% were adults over 18 years of age. The mean and median ages of those injured were 18.4 (±.21) and 16 years (interquartile range, 13-22), respectively. Of the pediatric population, 53.3% of injuries were involving children under 15 years of age while 46.7% were involving high school–aged athletes, from 15 to 18 years of age. Adults over 18 years of age had a higher risk of lacerations (52.7% vs 40.0%, P < .0001) and fractures (27.2% vs 17.2%, P < .0001), while patients 18 years of age and under had a significantly higher risk of contusions (31.8% vs 15.9% P < .0001) (Table 1). Similarly, males were significantly more likely to suffer from lacerations (49.2% vs 29.8%, P < .0001), and females were more likely to sustain a contusion (39.1% vs 22.2%, P < .0001) (Table 2).
 
-Most common genders of birth control tablet injury organized by age group:
+* Most common genders of birth control tablet injury organized by age group:
 ![National Estimates of Ages of those poisoned by birth control tablets](https://github.com/mufflyt/birth_control/blob/master/Age%20group.png)
 
+* Most common genders of birth control tablet injury organized by age group:
+![National Estimates of Ages of those poisoned by birth control tablets](https://github.com/mufflyt/birth_control/blob/master/Age%20group.png)
 
+* Discharge Locations for those poisoned by birth control tablets:
+![Discharge Locations for those poisoned by birth control tablets](https://github.com/mufflyt/birth_control/blob/master/Discharge%20location.png)
 
+* Race for those poisoned by birth control tablets:
+![Race for those poisoned by birth control tablets](https://github.com/mufflyt/birth_control/blob/master/Race%20.png)
 
-* Plots
 * Create line graph of National estimate of birth control poisoning on y and years on x.  Similar to figure 2 of the battery paper.  Need ot build the table in Excel to input the national estimates for each year of tablet poisonings from NEISS.  
 
 ## Downloads from NEISS
