@@ -15,16 +15,17 @@ Our objective was to analyze trends in birth control tablet ingestion by non-use
 * https://lenagroeger.s3.amazonaws.com/talks/orlando/exercises/ExcelMath/math.html
 * https://www.dropbox.com/s/nfo87g26mz93d0r/svider_article.pdf?dl=0
 
-# Abstract to model on
-Purpose: Soccer participation continues to increase among all ages in the US. Our objective was to analyze trends in soccer-related facial injury epidemiology, demographics, and mechanisms of injury.
+# Abstract
+Purpose: Oral contraceptive are one of the most common birth control methods. Our objective was to analyze trends in birth control tablet-related poisoning epidemiology, demographics, and mechanisms of injury.
 
-Materials and methods: The National Electronic Injury Surveillance System was evaluated for soccer-related facial injuries from 2010 through 2014. Results for product code "soccer" were filtered for injures to the face. Number of injuries was extrapolated, and data were analyzed for age, sex, specific injury diagnoses, locations, and mechanisms.
+Materials and methods: The National Electronic Injury Surveillance System was evaluated for birth control tablet-related poisonings from 2010 through 2019. Results for product code "medication tablets" were filtered for poisoning injuries. Number of poisonings was extrapolated, and data were analyzed for age, sex, specific poisoning diagnoses, locations, and mechanisms.
 
-Results: In all, 2054 soccer-related facial trauma entries were analyzed. During this time, the number of injures remained relatively stable. Lacerations were the most common diagnosis (44.2%), followed by contusions and fractures. The most common sites of fracture were the nose (75.1%). Of fractures with a reported mechanism of injury, the most common was head-to-head collisions (39.0%). Patients <19 years accounted for 66.9% of injuries, and athletes over 18 years old had a higher risk of fractures.
+Results: In all, 73 birth control tablet-related poisoning entries were analyzed. During this time, the number of poisonings decreased slightly. The majority of patients poisoned by birth control were male children between the ages of 1 and 4 years old (74.4%) with the route of exposure always being ingestion.
+
 
 Conclusions: The incidence of soccer-related facial trauma has remained stable, but the severity of such injuries remain a danger. Facial protection in soccer is virtually absent, and our findings reinforce the need to educate athletes, families, and physicians on injury awareness and prevention.
 
-Keywords: NEISS; National Electronic Injury Surveillance System; facial trauma; soccer; soccer-related injury.
+Keywords: NEISS; National Electronic Injury Surveillance System; poisoning; birth control tablet-related injury.
 
 # Materials and Methods
 The National Electronic Injury Surveillance System (NEISS), a nationwide resource offered by the Consumer Product Safety Commission, was evaluated for emergency department (ED) visits related to poisoning of birth control tablets. The NEISS collects data from a representative sample of EDs and weighs results based on ED setting, providing weighted national incidence. This database has been of great importance in numerous prior analyses.(citation needed)
