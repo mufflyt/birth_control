@@ -26,8 +26,13 @@ Conclusions: The incidence of soccer-related facial trauma has remained stable, 
 
 Keywords: NEISS; National Electronic Injury Surveillance System; poisoning; birth control tablet-related injury.
 
+# Introduction: 
+Accidental ingestion of oral contraceptive pills (OCPs) is a commonly reported problem in emergency rooms.1,2 OCPs are a very commonly used medication, used by over 9.5 million women in the United States in 2014.5 OCPs can be used for a variety of conditions; benefits of oral contraceptive pills range from preventing pregnancy to reducing risk of ovarian cancer. Despite these benefits, poisoning with combined OCPs has been described in historical and contemporary literature. 
+The first report about accidental ingestion of OCPs was in 1965, which was a report of nine cases of children 17 months – six years of age who had ingested norethindrone with mestranol tablets – with much higher hormone levels than today’s OCPs – in Canada.1 In those cases, there were no short or long term consequences were observed.1 Many had gastric lavage performed within two hours of ingestion.1Another report reviewed 1,982 accidental ingestions of oral prescription drugs involving children under five in 1986, and found that 200 of these reports (10%) were ingestion of oral contraceptive pills, tied with analgesics for second most commonly ingested medication in the setting of poisoning. For all accidental ingestions investigated, the children were most often at home when ingestion occurred (82%), and the child’s mother was most often the intended user of the medication (27%).2 10% of the medications overall and 30% of the oral contraceptive pills specifically were stored in a purse. An Australian study published in 2009 prospectively studied cases of OCP ingestion reported to Poison Information Centers. 63 cases had complete follow up for the next 5 months after the incident.3 The median number of pills ingested was 5. 3 Minor symptoms including vomiting and irritability were reported in 44% of cases. 3 No case of vaginal bleeding was reported. 3 The overall conclusion of the study was that no major clinical effects seem to be associated from OCP ingestion among children. 3
+	Our objective was to analyze trends in birth control tablet-related poisoning epidemiology, demographics, and mechanisms of injury.
+
 # Materials and Methods
-The National Electronic Injury Surveillance System (NEISS), a nationwide resource offered by the Consumer Product Safety Commission, was evaluated for emergency department (ED) visits related to poisoning of birth control tablets. The NEISS collects data from a representative sample of EDs and weighs results based on ED setting, providing weighted national incidence. This database has been of great importance in numerous prior analyses.(citation needed)
+The National Electronic Injury Surveillance System (NEISS), a nationwide resource offered by the Consumer Product Safety Commission, was evaluated for emergency department (ED) visits related to poisoning of birth control tablets. The NEISS collects data from a representative sample of EDs and weighs results based on ED setting, providing weighted national incidence. This database has been of great importance in numerous prior analyses.(6-15)
 
 In August 2020, the most recent 10-year period of data was searched using the product of interest “tablets” (NEISS code 1931) with focus on "poisoning" (NEISS code 68) of birth control. Data were recorded and evaluated for patient age, sex, injury type, and a brief narrative description of the incident. Injuries unrelated to ingestion of birth control were excluded from the study (e.g., patient on birth control and developed a pulmonary embolism). This database provided annual sample sizes as well as derived national estimates for poisoning due to tablet medications. The annual sample size of poisonings by tablet was multiplied by the annual percentage of birth-control related poisonings, and this proportion was multiplied by the nationwide estimate to come up with specific values for poisoning incidence. For example, the NEISS reported nine birth control-related ED visits for poisoning in 2019 with 882 poisonings via tablet medications in 2019 within the NEISS EDs.  Therefore (9/882) one percent of poisonings with tablets were from birth control.  In 2019, the poisoning with tablets had a derived estimate of 25,508 nationwide ED visits. Because one percent of these 882 visits (1%) were related to birth control, we multiplied 25,508 by one percent to come up with a national estimate of 255 birth control related poisonings for 2019. In addition to annual estimates, we also analyzed data by patient demographics (including age and gender), injury diagnosis, and patient disposition. We examined data from the most recent available 10-year block (2010–2019). 
 
@@ -50,6 +55,25 @@ Over the 10-year period from 2010 to 2019, there were an estimated 323,597 poiso
 
 * Figure 4: Discharge Locations for those poisoned by birth control tablets:
 ![Discharge Locations for those poisoned by birth control tablets](https://github.com/mufflyt/birth_control/blob/master/Discharge%20location.png)
+
+#References
+1.	Francis, W., & Dalzeil, D. Accidental ingestion of oral contraceptives by children. (1965). Can Med Assoc J.;92(4):191.
+2.	Jacobson, B., Rock, A., Cohn, M., Litovitz, T. (1989) Accidental ingestions of oral prescription drugs: a multicenter survey. Am J Public Health; 79:853-856.
+3.	Ann-Maree Lynch, Bridgett McKay & Lindsay Murray (2009) Assessment of short-term outcomes following unintentional ingestions of “oral contraceptive pills” by toddlers, Clinical Toxicology, 47:2, 174-177, DOI: 10.1080/15563650802438076
+4.	Riordan M, Rylance G, Berry K. Poisoning in children 3: Common medicines.Archives of Disease in Childhood 2002;87:400-402.
+5.	Kavanaugh ML and Jerman J, Contraceptive method use in the United States: trends and characteristics between 2008 and 2014, Contraception, 2018, 97(1):14–21, doi:j.contraception.2017.10.003.
+6.	Bresler AY, Hanba C, Svider P, Carron MA, Hsueh WD, Paskhover B. Craniofacial injuries related to motorized scooter use: A rising epidemic. Am J Otolaryngol. 2019;40(5):662-666. doi:10.1016/j.amjoto.2019.05.023
+7.	Amanullah S, Heneghan JA, Steele DW, Mello MJ, Linakis JG. Emergency department visits resulting from intentional injury in and out of school. Pediatrics 2014;133:254–61. 
+8.	Orces CH. Emergency department visits for fall-related fractures among older adults in the USA: a retrospective cross-sectional analysis of the National Electronic Injury Surveillance System All Injury Program, 2001–2008. BMJ Open 2013;3. 
+9.	Van Tassel D, Owens BD, Pointer L, Moriatis Wolf J. Incidence of clavicle fractures
+10.	in sports: analysis of the NEISS database. Int J Sports Med 2014;35:83–6. 
+11.	Dandu K, Carniol E, Sanghvi S, Baredes S, Eloy J. A 10-year analysis of head and neck injuries involving nonpowder firearms. Otolaryngology–Head and Neck Surgery 2017;156(5):853–6.  
+12.	Svider P, Johnson A, Folbe A, Carron M, Eloy J, Zuliani G. Assault by battery: battery-related injury in the head and neck. Laryngoscope 2014;124(10):2257–61 
+13.	Baugh, T., Hadley, J., & Chang, C. (n.d.). Epidemiology of wire-bristle grill brush injury in the United States, 2002-2014. Otolaryngology–Head and Neck Surgery, 154(4), 645–649.
+14.	Bobian M, Hanba C, Svider P, Hojjat H, Folbe A, Eloy J, et al. Soccer-related facial trauma: a nationwide perspective. The Annals of Otology, Rhinology & Laryngology 2016;125(12):992–6. 
+15.	Carniol E, Shaigany K, Svider P, Folbe A, Zuliani G, Baredes S, et al. “Beaned”: a 5- year analysis of baseball-related injuries of the face. Otolaryngology–Head and Neck Surgery 2015;153(6):957–61. 
+
+
 
 ## Downloads from NEISS
 We downloaded all the NEISS data for females with no restrictions.  Then we pulled out the data based on filtering specific words.  
