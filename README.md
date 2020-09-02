@@ -22,7 +22,7 @@ Materials and methods: The National Electronic Injury Surveillance System was ev
 
 Results: In all, 73 birth control tablet-related poisoning entries were analyzed. Assessing the entire 10-year period (2010−2019), we found a statistically significant, overall decreasing linear trend of birth control poisonings (p<0.05The majority of patients poisoned by birth control were male children between the ages of 1 and 4 years old (74.4%) with the route of exposure always being ingestion.  There were no stastical differences in age, race, or sex regarding those who ingested birth control tablets (p>0.05 for all).  
 
-Conclusions: The incidence of soccer-related facial trauma has remained stable, but the severity of such injuries remain a danger. Facial protection in soccer is virtually absent, and our findings reinforce the need to educate athletes, families, and physicians on injury awareness and prevention.
+Conclusions: The incidence of birth control-related poisoning has remained stable. Childproof packing and prevention of access to birth control pills is virtually absent, and our findings reinforce the need to educate patients, families, and physicians on injury awareness and prevention.
 
 Keywords: NEISS; National Electronic Injury Surveillance System; poisoning; birth control tablet-related injury.
 
@@ -55,6 +55,10 @@ Over the 10-year period from 2010 to 2019, there were an estimated 323,597 poiso
 
 * Figure 4: Discharge Locations for those poisoned by birth control tablets:
 ![Discharge Locations for those poisoned by birth control tablets](https://github.com/mufflyt/birth_control/blob/master/Discharge%20location.png)
+
+# Discussion
+
+
 
 #References
 1.	Francis, W., & Dalzeil, D. Accidental ingestion of oral contraceptives by children. (1965). Can Med Assoc J.;92(4):191.
