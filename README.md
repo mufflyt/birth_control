@@ -15,6 +15,8 @@ Our objective was to analyze trends in birth control tablet ingestion by non-use
 * https://lenagroeger.s3.amazonaws.com/talks/orlando/exercises/ExcelMath/math.html
 * https://www.dropbox.com/s/nfo87g26mz93d0r/svider_article.pdf?dl=0
 
+* Endnote, https://www.ucdenver.edu/offices/office-of-information-technology/software/how-do-i-use/endnote
+
 # Abstract
 Purpose: Oral contraceptive are one of the most common birth control methods. Our objective was to analyze trends in birth control tablet-related poisoning epidemiology, demographics, and mechanisms of injury.
 
@@ -57,10 +59,29 @@ Over the 10-year period from 2010 to 2019, there were an estimated 323,597 poiso
 ![Discharge Locations for those poisoned by birth control tablets](https://github.com/mufflyt/birth_control/blob/master/Discharge%20location.png)
 
 # Discussion
+No previous studies have utilized the NEISS to analyze birth control related poisonings. While prior studies of birth control-related poisonings provide valuable data, it is to the best of our knowledge that no recent studies have focused on birth control-related poisonings presenting to US emergency departments, nor have studies specifically characterized details of these poisonings.
+
+Although numerous reports note that contraception with combined oral contraceptive pills continues to grow in the US, our data suggest that the number of birth control-related poisonings presenting to emergency departments has remained relatively stable over the last ten years. 
+
+Luckily, poisoning with birth control tablets does not have a long-lasting physiological impact on a young child.  Although the vast majority of patients (???) were released after examination and/or treatment, the authors would be remiss not to mention the importance of rapidly identifying and attempting to remove any birth control from a child's reach.  Additionally, it may be wise for healthcare providers, including gynecologists, to counsel parents regarding the importance of keeping medication out of reach for children.  MORE HERE 
+
+Although this analysis comprehensively details nationally representative patterns of patient presentation and poisoning patterns for individuals, it is not without significant limitations.  Importantlly, many patients with poisoning may present in other settings not encompassed by the NEISS, such as ambulatory care centers and outpatient clinical offices.  Hence, some of our estimates may potentially underestimate the extent to which poisoning of children occurs from birth control.  Furthermore, although the use of a nationally representative resource has considerable strength with regard to external validity and the applicability of data, this resource is inadequate for evaluation of management, severity of poisoning, type of treatment required, complications of treatment and outcomes, as available data are focused on presentation, patient, and injury characteristics.  Consequently, an intra-institutional or multi-institutional investigation of individual patient data may be a valuable complement to findings reported. 
+
+The number of birth control-related poisonings in the US has been stable since 2010. It is apparent that birth control-related poisoning is serious and warrants awareness by all physicians, including gynecologists, of mechanisms, appropriate counseling to patients, proper treatment, and continued investigation on injury prevention.
 
 
+Previous studies analyzing birth control-related poisoning.  How does this relate?  Statement of findings.  
 
-#References
+Treatment of birth control
+
+Safer packaging 
+
+Storage of pills 
+
+Strengths and limitations
+
+
+# References
 1.	Francis, W., & Dalzeil, D. Accidental ingestion of oral contraceptives by children. (1965). Can Med Assoc J.;92(4):191.
 2.	Jacobson, B., Rock, A., Cohn, M., Litovitz, T. (1989) Accidental ingestions of oral prescription drugs: a multicenter survey. Am J Public Health; 79:853-856.
 3.	Ann-Maree Lynch, Bridgett McKay & Lindsay Murray (2009) Assessment of short-term outcomes following unintentional ingestions of “oral contraceptive pills” by toddlers, Clinical Toxicology, 47:2, 174-177, DOI: 10.1080/15563650802438076
