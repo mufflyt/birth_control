@@ -1,6 +1,6 @@
 # birth_control
 # Accidental Ingestion of Birth Control by Children: A National Population-Based Analysis
-Masten, Wilson, Muffly
+Masten, Wilson, Schultz, Muffly
 
 * Video about how I analyzed the data: https://youtu.be/lLAF9xJQYbM
 
