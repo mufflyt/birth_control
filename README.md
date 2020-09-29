@@ -18,7 +18,7 @@ Our objective was to analyze trends in birth control tablet ingestion by non-use
 * Endnote, https://www.ucdenver.edu/offices/office-of-information-technology/software/how-do-i-use/endnote
 
 # Abstract
-Purpose: Oral contraceptive are one of the most common birth control methods. Our objective was to analyze trends in birth control tablet-related poisoning epidemiology, demographics, and mechanisms of injury.
+Purpose: Oral contraceptives are one of the most common birth control methods. Our objective was to analyze trends in birth control tablet-related poisoning epidemiology, demographics, and mechanisms of injury.
 
 Materials and methods: The National Electronic Injury Surveillance System was evaluated for birth control tablet-related poisonings from 2010 through 2019. Results for product code "medication tablets" were filtered for poisoning injuries. Number of poisonings was extrapolated, and data were analyzed for age, sex, specific poisoning diagnoses, locations, and mechanisms.
 
